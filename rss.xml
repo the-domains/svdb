@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Stephane Van den Bossche]]></title>
         <description><![CDATA[Stephane Van den Bossche]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/svdb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 13:06:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 13:08:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/svdb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Once upon a Time</p>]]></description>
+            <link>https://thegrid.ai/svdb/3a7043cc-48d7-4030-99b0-dcba582c5964/index.html</link>
+            <guid isPermaLink="false">3a7043cc-48d7-4030-99b0-dcba582c5964</guid>
+            <pubDate>Sat, 26 Mar 2016 13:07:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/569df7dd-eed4-4dc8-9239-b68d38243db0.jpg">]]></description>
-            <link>undefined78577e5a-9d07-44c4-bc66-6529c7a7ca22/index.html</link>
+            <link>https://thegrid.ai/svdb/78577e5a-9d07-44c4-bc66-6529c7a7ca22/index.html</link>
             <guid isPermaLink="false">78577e5a-9d07-44c4-bc66-6529c7a7ca22</guid>
             <pubDate>Sat, 26 Mar 2016 13:06:10 GMT</pubDate>
         </item>
